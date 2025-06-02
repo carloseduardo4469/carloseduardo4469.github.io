@@ -1,0 +1,138 @@
+{
+    "nome_loja": "Tia Van",
+    "descricao": "Top 99.5 melhores lanches",
+    "categorias": [
+        {
+            "nome": "Lanches",
+            "itens": [
+                {
+                    "id": 1,
+                    "nome": "X-Ratão",
+                    "preco": 40.0,
+                    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkLNp81EbKDQuxr7xq_Ez9olWy4J2U0vBpCQ&s"
+                },
+                {
+                    "id": 2,
+                    "nome": "X-Salada",
+                    "preco": 42.0,
+                    "imagem": "https://i0.wp.com/radames.manosso.nom.br/linguagem/files/x-salada.jpg?w=604&ssl=1"
+                },
+                {
+                    "id": 3,
+                    "nome": "Misto Quente",
+                    "preco": 15.0,
+                    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBUVrYjCeNfc5c2H9Py83Y1J4s73mX0oO_g&s"
+                },
+                {
+                    "id": 4,
+                    "nome": "Hambúrguer de Frango",
+                    "preco": 38.0,
+                    "imagem": "https://wessel.com.br/cdn/shop/products/WESSEL_Burger_Frango.jpg?v=1678382242&width=1920"
+                }
+            ]
+        },
+        {
+            "nome": "Bebidas",
+            "subcategorias": [
+                {
+                    "nome": "Refrigerantes",
+                    "itens": [
+                        {
+                            "id": 5,
+                            "nome": "Coca-Cola",
+                            "preco": 8.0,
+                            "imagem": "https://via.placeholder.com/60?text=Coca"
+                        },
+                        {
+                            "id": 6,
+                            "nome": "Guaraná",
+                            "preco": 7.0,
+                            "imagem": "https://via.placeholder.com/60?text=Guarana"
+                        },
+                        {
+                            "id": 7,
+                            "nome": "Sprite",
+                            "preco": 7.0,
+                            "imagem": "https://via.placeholder.com/60?text=Sprite"
+                        },
+                        {
+                            "id": 8,
+                            "nome": "Pepsi",
+                            "preco": 7.0,
+                            "imagem": "https://via.placeholder.com/60?text=Pepsi"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Sucos",
+                    "itens": [
+                        {
+                            "id": 9,
+                            "nome": "Suco de Laranja",
+                            "preco": 6.0,
+                            "imagem": "https://via.placeholder.com/60?text=Laranja"
+                        },
+                        {
+                            "id": 10,
+                            "nome": "Suco de Uva",
+                            "preco": 6.0,
+                            "imagem": "https://via.placeholder.com/60?text=Uva"
+                        },
+                        {
+                            "id": 11,
+                            "nome": "Suco de Maracujá",
+                            "preco": 6.0,
+                            "imagem": "https://via.placeholder.com/60?text=Maracuja"
+                        },
+                        {
+                            "id": 12,
+                            "nome": "Suco de Acerola",
+                            "preco": 6.0,
+                            "imagem": "https://via.placeholder.com/60?text=Acerola"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Doces",
+            "itens": [
+                {
+                    "id": 13,
+                    "nome": "Brigadeiro",
+                    "preco": 3.0,
+                    "imagem": "https://via.placeholder.com/60?text=Brigadeiro"
+                },
+                {
+                    "id": 14,
+                    "nome": "Beijinho",
+                    "preco": 3.0,
+                    "imagem": "https://via.placeholder.com/60?text=Beijinho"
+                },
+                {
+                    "id": 15,
+                    "nome": "Bolo de Cenoura",
+                    "preco": 5.0,
+                    "imagem": "https://via.placeholder.com/60?text=Cenoura"
+                },
+                {
+                    "id": 16,
+                    "nome": "Paçoca",
+                    "preco": 2.5,
+                    "imagem": "https://via.placeholder.com/60?text=Pacoca"
+                }
+            ]
+        }
+    ],
+    "carrossel_imagens": [
+        "https://i.gifer.com/1vPf.gif",
+        "https://sabores-new.s3.amazonaws.com/public/2024/11/hamburgao-de-forno.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGB13GJVlJ3mi2V1IbJEgJZo8LUMFJoaAPxQ&s",
+        "https://i.panelinha.com.br/i1/228-bk-1245-blog-cmc04774-1.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1mQiKDlHFL0fqyXSask8eOuxfRXR3N4_9mA&s",
+        "https://www.minhareceita.com.br/app/uploads/2022/08/enroladinho-de-salsicha-portal-minha-receita-2.jpg",
+        "https://guiadacozinha.com.br/wp-content/uploads/2018/07/esfirradecarnelouca.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKaYR13wSkzLMBZD5d-iHRgZfeM9wdVLr9Aw&s",
+        "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop_new/public/oembed_thumbnails/ST-EmUyV14Qv159dxB4L4pWYb-d9L7K0jY8e1rKvSk0.jpg?itok=3itAQwTt"
+    ]
+}
