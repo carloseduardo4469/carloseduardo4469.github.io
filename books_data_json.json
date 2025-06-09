@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "name": "Literatura Clássica",
+      "books": [
+        {
+          "title": "Dom Casmurro",
+          "author": "Machado de Assis",
+          "year": 1899,
+          "description": "Uma das obras-primas da literatura brasileira, narrando a história de Bentinho e sua obsessão por Capitu."
+        },
+        {
+          "title": "O Cortiço",
+          "author": "Aluísio Azevedo",
+          "year": 1890,
+          "description": "Romance naturalista que retrata a vida em um cortiço carioca no século XIX."
+        },
+        {
+          "title": "Orgulho e Preconceito",
+          "author": "Jane Austen",
+          "year": 1813,
+          "description": "Romance clássico sobre Elizabeth Bennet e suas complexas relações sociais na Inglaterra georgiana."
+        },
+        {
+          "title": "1984",
+          "author": "George Orwell",
+          "year": 1949,
+          "description": "Distopia que explora temas de totalitarismo, vigilância e manipulação da verdade."
+        },
+        {
+          "title": "O Grande Gatsby",
+          "author": "F. Scott Fitzgerald",
+          "year": 1925,
+          "description": "Retrato da sociedade americana dos anos 1920 através da história de Jay Gatsby."
+        },
+        {
+          "title": "Cem Anos de Solidão",
+          "author": "Gabriel García Márquez",
+          "year": 1967,
+          "description": "Saga familiar que mescla realismo mágico e história da América Latina."
+        },
+        {
+          "title": "Crime e Castigo",
+          "author": "Fiódor Dostoiévski",
+          "year": 1866,
+          "description": "Exploração psicológica profunda de Raskólnikov e suas consequências morais após um assassinato."
+        },
+        {
+          "title": "Madame Bovary",
+          "author": "Gustave Flaubert",
+          "year": 1857,
+          "description": "História de Emma Bovary e sua busca por paixão e significado na França provincial."
+        },
+        {
+          "title": "Dom Quixote",
+          "author": "Miguel de Cervantes",
+          "year": 1605,
+          "description": "As aventuras do engenhoso fidalgo que confunde realidade e fantasia."
+        },
+        {
+          "title": "Ulisses",
+          "author": "James Joyce",
+          "year": 1922,
+          "description": "Modernista experimentação narrativa acompanhando um dia na vida de Leopold Bloom."
+        }
+      ]
+    },
+    {
+      "name": "Literatura Contemporânea",
+      "books": [
+        {
+          "title": "Cidade de Deus",
+          "author": "Paulo Lins",
+          "year": 1997,
+          "description": "Retrato cru e realista da violência urbana no Rio de Janeiro."
+        },
+        {
+          "title": "O Vendedor de Passados",
+          "author": "José Eduardo Agualusa",
+          "year": 2004,
+          "description": "Romance que explora identidade e memória no contexto pós-colonial angolano."
+        },
+        {
+          "title": "Americanah",
+          "author": "Chimamanda Ngozi Adichie",
+          "year": 2013,
+          "description": "Narrativa sobre imigração, identidade racial e pertencimento cultural."
+        },
+        {
+          "title": "A Insustentável Leveza do Ser",
+          "author": "Milan Kundera",
+          "year": 1984,
+          "description": "Reflexão filosófica sobre amor, política e existência na Tchecoslováquia comunista."
+        },
+        {
+          "title": "Ensaio sobre a Cegueira",
+          "author": "José Saramago",
+          "year": 1995,
+          "description": "Alegoria sobre uma epidemia de cegueira branca e seus efeitos na sociedade."
+        },
+        {
+          "title": "O Kite Runner",
+          "author": "Khaled Hosseini",
+          "year": 2003,
+          "description": "História de amizade, culpa e redenção no contexto do Afeganistão moderno."
+        },
+        {
+          "title": "Norwegian Wood",
+          "author": "Haruki Murakami",
+          "year": 1987,
+          "description": "Romance melancólico sobre amor, perda e amadurecimento no Japão dos anos 1960."
+        },
+        {
+          "title": "Beloved",
+          "author": "Toni Morrison",
+          "year": 1987,
+          "description": "Poderosa narrativa sobre trauma, memória e legado da escravidão nos Estados Unidos."
+        },
+        {
+          "title": "A Metamorfose",
+          "author": "Franz Kafka",
+          "year": 1915,
+          "description": "Clássico existencialista sobre Gregor Samsa e sua transformação em inseto."
+        },
+        {
+          "title": "Neuromancer",
+          "author": "William Gibson",
+          "year": 1984,
+          "description": "Marco fundador do cyberpunk, explorando realidade virtual e inteligência artificial."
+        }
+      ]
+    },
+    {
+      "name": "Não-Ficção",
+      "books": [
+        {
+          "title": "Sapiens",
+          "author": "Yuval Noah Harari",
+          "year": 2011,
+          "description": "Análise fascinante da história da humanidade desde a Revolução Cognitiva."
+        },
+        {
+          "title": "O Segundo Sexo",
+          "author": "Simone de Beauvoir",
+          "year": 1949,
+          "description": "Obra fundamental do feminismo moderno analisando a condição da mulher na sociedade."
+        },
+        {
+          "title": "Quarto de Despejo",
+          "author": "Carolina Maria de Jesus",
+          "year": 1960,
+          "description": "Relato autobiográfico da vida na favela do Canindé em São Paulo."
+        },
+        {
+          "title": "A Origem das Espécies",
+          "author": "Charles Darwin",
+          "year": 1859,
+          "description": "Teoria revolucionária da evolução por seleção natural."
+        },
+        {
+          "title": "Casa-Grande & Senzala",
+          "author": "Gilberto Freyre",
+          "year": 1933,
+          "description": "Estudo clássico sobre a formação da sociedade brasileira."
+        },
+        {
+          "title": "O Mito da Beleza",
+          "author": "Naomi Wolf",
+          "year": 1990,
+          "description": "Análise crítica dos padrões de beleza impostos às mulheres na sociedade moderna."
+        },
+        {
+          "title": "Vigiar e Punir",
+          "author": "Michel Foucault",
+          "year": 1975,
+          "description": "Estudo sobre o nascimento da prisão e os mecanismos de poder disciplinar."
+        },
+        {
+          "title": "O Gene Egoísta",
+          "author": "Richard Dawkins",
+          "year": 1976,
+          "description": "Revolucionária perspectiva gene-centrada da evolução e comportamento."
+        },
+        {
+          "title": "Raízes do Brasil",
+          "author": "Sérgio Buarque de Holanda",
+          "year": 1936,
+          "description": "Interpretação clássica da formação histórica e cultural do Brasil."
+        },
+        {
+          "title": "Mal-Estar na Civilização",
+          "author": "Sigmund Freud",
+          "year": 1930,
+          "description": "Reflexão psicanalítica sobre os conflitos entre desejos individuais e demandas sociais."
+        }
+      ]
+    }
+  ]
+}
