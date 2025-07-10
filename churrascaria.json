@@ -31,7 +31,7 @@
           ]
         },
         {
-          "nome": "Alcoólicas",
+         "nome": "Cervejas",
           "itens": [
             { "id": 11, "nome": "Skol Lata", "preco": 6.0, "imagem": "https://..." },
             { "id": 12, "nome": "Brahma Lata", "preco": 6.0, "imagem": "https://..." },
@@ -40,5 +40,5 @@
         }
       ]
     }
-  ]
+  
 }
