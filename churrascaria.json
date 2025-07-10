@@ -24,14 +24,14 @@
       "nome": "Bebidas",
       "subcategorias": [
         {
-          "nome": "Refrigerantes",
+          "nome": "Não Alcoólicas",
           "itens": [
             { "id": 9, "nome": "Coca-Cola Lata", "preco": 5.0, "imagem": "https://..." },
             { "id": 10, "nome": "Guaraná Lata", "preco": 5.0, "imagem": "https://..." }
           ]
         },
         {
-          "nome": "Cervejas",
+          "nome": "Alcoólicas",
           "itens": [
             { "id": 11, "nome": "Skol Lata", "preco": 6.0, "imagem": "https://..." },
             { "id": 12, "nome": "Brahma Lata", "preco": 6.0, "imagem": "https://..." },
